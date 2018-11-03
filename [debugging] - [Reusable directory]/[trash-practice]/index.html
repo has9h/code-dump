@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>To-Do List</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style.css" type="text/css" media="screen" charset="utf-8">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+  <link href="https://fonts.googleapis.com/css?family=Roboto:300,400" rel="stylesheet">
+  <link rel="shortcut icon" href="#" />
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+</head>
+
+<body>
+  <div class="container">
+    <h1 style="text-align:center">To-Do List</h1>
+    <hr />
+
+    <div id="form" class="form-group row">
+        <div class="col-lg-4">
+          <form id="formTarget">
+            <input id="inputVal" style="text-align:center" type="text" class="form-control" placeholder="Add Task"/>
+            <button type="submit" id="button" class="btn btn-default">Add Task</button>
+          </form>
+        </div>
+    </div>
+
+    <hr />
+
+    <div class="jumbotron">
+      <div id="notes" class="row">
+        <div class="col-md-4">
+          <div class="card">
+            <div class="card-body">
+              <h5 class="card-title">Special title treatment</h5>
+              <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+              <button id="showNote" class="btn btn-primary">Go somewhere</button>
+            </div>
+          </div>
+        </div>
+
+        <!--<div class="col-md-4">-->
+        <!--  <div class="card">-->
+        <!--    <div class="card-body">-->
+        <!--      <h5 class="card-title">Special title treatment</h5>-->
+        <!--      <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>-->
+        <!--      <a href="#" class="btn btn-primary">Go somewhere</a>-->
+        <!--    </div>-->
+        <!--  </div>-->
+        <!--</div>-->
+
+        <!--<div class="col-md-4">-->
+        <!--  <div class="card">-->
+        <!--    <div class="card-body">-->
+        <!--      <h5 class="card-title">Special title treatment</h5>-->
+        <!--      <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>-->
+        <!--      <a href="#" class="btn btn-primary">Go somewhere</a>-->
+        <!--    </div>-->
+        <!--  </div>-->
+        <!--</div>-->
+      </div>
+    </div>
+
+    <!---->
+    <div id="detailedNote" class="jumbotron" style="display:none">
+      <h2>Details</h2>
+      <hr />
+
+      <div>
+        <div class="form-group">
+          <label for="title">Task:</label>
+          <input type="text" class="form-control" id="task">
+          <label for="description">Description:</label>
+          <textarea class="form-control" rows="5" id="comment"></textarea>
+          <button id="saveNote" class="btn btn-primary">Save</button>
+          <button id="hideNote" class="btn btn-primary">Go Back</button>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>-->
+  <!--<script type="text/javascript" src="script.js"></script>-->
+
+  <script src= "jquery-3.3.1.min.js"></script>
+  <script type="text/javascript" src="script.js"></script>
+</body>
+
+</html>
