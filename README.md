@@ -1,8 +1,8 @@
 # Code Dump
 
-* All codes for Web course goes here *
+*All codes for Web course goes here*
 
-** Also check [the link to my other code Repo]https://github.com/has9h/atom-desktop for other code **
+**Also check [the link to my other code repo!]https://github.com/has9h/atom-desktop**
 
 # This repo has:
 
