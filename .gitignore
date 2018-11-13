@@ -1,1 +1,11 @@
+#ignore all files ending in .o or .a
+*.[oa]
+#ignore all files ending in ~, marking temporary files
+*~
+#ignore all files in any directory named 'build'
+build/
+#ignore the bootstrap libraries directory
+#automatically considers and ignores any bootstrap directories that may be inside /child directories, not just /
 bootstrap-3.3.7-dist/
+#ignore the bootstrap version inside [mid]\shopping-cart\vendor\bootstrap
+bootstrap/
