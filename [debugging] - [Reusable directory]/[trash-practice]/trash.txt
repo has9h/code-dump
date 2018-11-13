@@ -1,0 +1,17 @@
+<body>
+  <div id="container">
+    <h1> To-Do List </h1>
+    <hr />
+    <!-- ALl the notes section, including padding and shit -->
+    <div id="notes" class="tiled-section">
+      <!-- just the products -->
+      <div id="notes-row" class="row">
+        <!-- individual products section, including padding and shit -->
+        <div class="col-md-4">
+          <!-- individual prodcts -->
+          <h3 class="note-title"> [Note Title] </h3>
+          <!-- <textarea name="description" rows="8" cols="80" placeholder="Add description"></textarea> -->
+          <button class="button" type="button" name="button">Complete</button>
+        </div>
+      </div>
+    </div>

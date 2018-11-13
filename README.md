@@ -1,4 +1,18 @@
-# Learning Bootstrap
+# Code Dump
+
+* All codes for Web course goes here *
+
+** Also check [the link to my other code Repo]https://github.com/has9h/atom-desktop for other code **
+
+# This repo has:
+
+* Codes for Bootstrap: Including the Cheatsheet
+* Debugging directory
+* Material Design experiment directory
+* Web Assignment 1 sample directories
+* Web Project experiment directory
+
+# The Bootstrap Part:
 
 ## Install Methods
 
