@@ -6,7 +6,7 @@
 
 # This repo has:
 
-* Codes for Bootstrap: Including the Cheatsheet
+~~* Codes for Bootstrap: Including the Cheatsheet~~ *Moved to [Atom-Desktop repo!](https://github.com/has9h/atom-desktop)*
 * Debugging directory
 * Material Design experiment directory
 * Web Assignment 1 sample directories
