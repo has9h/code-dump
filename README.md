@@ -2,7 +2,7 @@
 
 *All codes for Web course goes here*
 
-**Also check [the link to my other code repo!]https://github.com/has9h/atom-desktop**
+**Also check [the link to my other code repo!](https://github.com/has9h/atom-desktop)**
 
 # This repo has:
 
