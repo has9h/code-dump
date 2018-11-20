@@ -4,7 +4,7 @@
 
 **Also check [the link to my other code repo!](https://github.com/has9h/atom-desktop)**
 
-[Link to C9!]
+[Link to C9!](https://c9.io/has9)
 
 # This repo has:
 
