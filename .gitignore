@@ -9,3 +9,5 @@ build/
 bootstrap-3.3.7-dist/
 #ignore the bootstrap version inside [mid]\shopping-cart\vendor\bootstrap
 bootstrap/
+#ignore the jQuery library
+jquery-3.3.1.min.js
